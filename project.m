@@ -1,0 +1,13 @@
+i1 = item;
+%i1 = item(1,2);
+i1.Width = 1;
+i1.Length = 2;
+i2 = item;
+i2.Width = 2;
+i2.Length = 2;
+i3 = item;
+i3.Width = 2;
+i3.Length = 3;
+i4 = item;
+i4.Width = 3;
+i4.Length = 5;
